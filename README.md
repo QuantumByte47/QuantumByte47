@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Multi-Agentic+AI+Systems+Architect;Scalable+SaaS+AI+Platform+Builder;Quantum-Enhanced+Solution+Engineer;Building+Tomorrow's+Intelligence+Today)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Multi-Agentic+AI+Systems+Architect;Scalable+SaaS+AI+Platform+Builder;+Solution+Engineer;Building+Tomorrow's+Intelligence+Today)
   
 </div>
 
