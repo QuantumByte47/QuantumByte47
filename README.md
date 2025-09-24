@@ -32,7 +32,6 @@ I'm a **Multi-Agentic AI Systems Architect** and **Scalable SaaS Platform Builde
 - **Enterprise Impact**: Built AI SaaS platforms serving 10K+ users with 99.9% uptime
 - **Innovation**: Pioneer in quantum-classical hybrid AI architectures
 - **Collaboration**: Leading cross-functional teams in AI product development
-- **Connect**: [worhtolic.com](http://worhtolic.com) | [naturalflow.ai](http://naturalflow.ai)
 - **Philosophy**: "The future is multi-agentic, quantum-enabled, and infinitely scalable"
 
 ## Technology Arsenal & Expertise
