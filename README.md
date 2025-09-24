@@ -235,8 +235,6 @@ I'm a **Multi-Agentic AI Systems Architect** and **Scalable SaaS Platform Builde
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
   
-  <h3>Ready to build the future together? Let's connect!</h3>
-  
   From [QuantumByte47](https://github.com/QuantumByte47)
   
 </div>
