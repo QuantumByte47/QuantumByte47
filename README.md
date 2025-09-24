@@ -201,16 +201,6 @@ I'm a **Multi-Agentic AI Systems Architect** and **Scalable SaaS Platform Builde
 
 **Innovation Impact**: Transforming how AI systems collaborate, scale, and solve complex problems
 
-## Connect with Me
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/worhtolic.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](http://worhtolic.com)
-[![AI Website](https://img.shields.io/badge/naturalflow.ai-00D4FF?style=for-the-badge&logo=artificial-intelligence&logoColor=white)](http://naturalflow.ai)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/QuantumByte47)
-
-</div>
-
 ## Interactive Neural Network Visualizer
 
 <div align="center">
